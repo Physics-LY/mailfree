@@ -13,16 +13,11 @@ database_id = "a5be1b17-f09d-4fb0-9ad7-61e4fa9ee380" # 你的database_id
 # 环境变量
 [vars]
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"example@qq.com"}]"
-ADMIN_NAME="liyi"
-ADMIN_PASSWORD="20010515liyi"
-GUEST_PASSWORD="guest"
-JWT_TOKEN="dfvhluhdaslufhvdv"
-JWT_TOKENGUEST_PASSWORD="dfsfsfxzcv"
+ADMIN_NAME="admin"
 SESSION_EXPIRE_DAYS="365"
-MAIL_DOMAIN="你的域名列表"
-RESEND_API_KEY="RESEND发件密钥"
-SENDFLARE_API_KEY="SENDFLARE发件密钥"
-CYBERPERSONS_API_KEY="CYBERPERSONS发件密钥"
+MAIL_DOMAIN="liyi.uk"
+
+
 
 
 # 静态资源目录（Workers + Assets）
